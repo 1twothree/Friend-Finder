@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder-node-and-express-server-master",
+  "version": "1.0.0",
+  "description": "Friend Finder",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "serverTest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1twothree/Friend-Finder.git"
+  },
+  "keywords": [
+    "ff"
+  ],
+  "author": "Vadim B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1twothree/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/1twothree/Friend-Finder#readme"
+}
