@@ -4,12 +4,6 @@ Friend Finder app demonstrating Node and Express with jQuery and AJAX.
 Overall purpose is a web app designed to help find a compatible friend.
 Set up web servers with Node.js using Express.
 
-##### Home Page
-![Friend Finder Home Page](/images-readme/friend.PNG?raw=true)
-
-##### New Friend Modal
-![New Friend Modal](/images-readme/friendmodal.PNG?rqw=true)
-
 ##### Technologies Used
 * **JavaScript**
 * **jQuery**
@@ -27,5 +21,3 @@ Set up web servers with Node.js using Express.
 * **Use localhost:4000**
 
 ##### Acknowledgments
-
-![Alert Modal](/images-readme/alert.PNG?raw=true)
